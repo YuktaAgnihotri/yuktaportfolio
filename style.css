@@ -59,9 +59,12 @@ main1{
 
     .rightsection{
         /* background-color:brown; */
-        width: 35%;
+        min-width: 35%;
         height: auto;
         padding: 2px;
+    }
+    .rightsection img{
+        min-width: 35vw;
     }
     .hi{
         font-size: 3rem;
