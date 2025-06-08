@@ -63,6 +63,9 @@ main1{
         height: auto;
         padding: 2px;
     }
+    .rightsection{
+        min-width: 35vw;
+    }
     .hi{
         font-size: 3rem;
     }
